@@ -1,0 +1,8 @@
+c:\users\mdsha\documents\visual studio 2015\Projects\44A_Database\44A_Database\bin\Debug\44A_Database.exe.config
+c:\users\mdsha\documents\visual studio 2015\Projects\44A_Database\44A_Database\bin\Debug\44A_Database.exe
+c:\users\mdsha\documents\visual studio 2015\Projects\44A_Database\44A_Database\bin\Debug\44A_Database.pdb
+c:\users\mdsha\documents\visual studio 2015\Projects\44A_Database\44A_Database\obj\Debug\_44A_Database.Form1.resources
+c:\users\mdsha\documents\visual studio 2015\Projects\44A_Database\44A_Database\obj\Debug\_44A_Database.Properties.Resources.resources
+c:\users\mdsha\documents\visual studio 2015\Projects\44A_Database\44A_Database\obj\Debug\44A_Database.csproj.GenerateResource.Cache
+c:\users\mdsha\documents\visual studio 2015\Projects\44A_Database\44A_Database\obj\Debug\44A_Database.exe
+c:\users\mdsha\documents\visual studio 2015\Projects\44A_Database\44A_Database\obj\Debug\44A_Database.pdb
